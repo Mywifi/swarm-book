@@ -16,3 +16,11 @@ aggregate and leverage giant datasets. The outcome of this is that instead of be
 concentrated at the service provider, control of the data remains decentralised and
 with the individual to which it pertains. And as a result, so does the power. Expect
 bad press
+
+# Swarm intro
+Swarm is a Web 3.0 stack that is decentralised, incentivised, and secured. In
+particular, the platform offers participants solutions for data storage, transfer, access,
+and authentication. These data services are more and more essential for economic
+interactions. By providing universal access to all for these services, with strong privacy
+guarantees and without borders or external restrictions, Swarm fosters the spirit of
+global voluntarism and represents the infrastructure for a self-sovereign digital society.
